@@ -1,3 +1,4 @@
+
 hello,this is my first git txt
 
 hello,this is my first git txt
@@ -21,4 +22,8 @@ this add at third version
 	 this is add at master
 	 this is add at hot-fix
 	 
-this word is add at github web 
+this word is add at github web
+
+this is from clone demo
+
+
